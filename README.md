@@ -1,2 +1,2 @@
 # cardstudy_data
-CardStudy 
+卡片学语言数据 
